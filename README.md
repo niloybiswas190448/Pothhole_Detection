@@ -139,7 +139,11 @@ results = model("road.jpg", save=True)
 * [ ] 🔁 Integrate temporal smoothing in video
 * [ ] 📈 Add more datasets from different regions
 
+## 🔗 Related Post
 
+See the full post on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7302616682764648448/)
+
+---
 
 ## 📬 Contact
 
