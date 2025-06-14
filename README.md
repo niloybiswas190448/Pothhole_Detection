@@ -1,5 +1,4 @@
 
-cat > README.md << 'EOF'
 # 🕳️ Pothole Detection & Segmentation using YOLOv11
 
 <p align="center">
@@ -140,14 +139,7 @@ results = model("road.jpg", save=True)
 * [ ] 🔁 Integrate temporal smoothing in video
 * [ ] 📈 Add more datasets from different regions
 
----
 
-## 📜 License
-
-This project is released under the **MIT License**.
-You are free to use, modify, and distribute it with proper attribution.
-
----
 
 ## 📬 Contact
 
@@ -160,24 +152,4 @@ Urban Planner | Deep Learning Enthusiast | Transportation Researcher
 
 > *Empowering smart cities with intelligent road monitoring systems.*
 
-EOF
 
-```
-
----
-
-### ✅ What to Replace:
-- Update your **Colab link**, **GitHub link**, and any image filenames (`result_detection.jpg`, `result_mask.jpg`, etc.).
-- Add real sample outputs to your folder or repo and commit them (`demo.gif`, `dataset_samples.png`, etc.).
-
----
-
-### 🔧 Bonus Tip:
-
-To increase visibility:
-- Add a **`pothole-detection`** GitHub topic tag.
-- Pin the repo on your GitHub profile.
-- Cross-link it on LinkedIn or portfolio site.
-
-Would you like me to turn this into a **Colab notebook** next? Or help you make a **Streamlit demo app** for this?
-```
