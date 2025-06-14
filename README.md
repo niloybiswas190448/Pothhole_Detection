@@ -16,7 +16,7 @@ Run it in your browser (no setup needed):
 
 ## 📂 Project Repository
 
-[GitHub Repo - Pothole Detection](https://github.com/yourusernameniloybiswas190448/Pothhole_Detection)
+[GitHub Repo - Pothole Detection](https://github.com/niloybiswas190448/Pothhole_Detection.git)
 
 ---
 
@@ -72,7 +72,7 @@ This project presents an automated solution for pothole detection and **segmenta
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/pothole-detection.git
+git clone https://github.com/niloybiswas190448/Pothhole_Detection.git
 cd pothole-detection
 ````
 
