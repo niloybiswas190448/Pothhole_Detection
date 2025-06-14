@@ -108,7 +108,7 @@ results = model("road.jpg", save=True)
 * 🎨 Augmentations: CLAHE, Blur, Rotation, Brightness/Contrast
 
 <p align="center">
-  <img src="dataset_samples.png" alt="Dataset Preview" width="70%">
+  <img src="OIP.jpeg" alt="Dataset Preview" width="70%">
 </p>
 
 ---
