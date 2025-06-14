@@ -10,13 +10,13 @@
 Run it in your browser (no setup needed):
 
 - 📦 **YOLOv11 Detection + Segmentation Demo**  
-  [Open in Google Colab](https://colab.research.google.com/drive/YOUR_LINK_HERE)
+  [Open in Google Colab](https://drive.google.com/file/d/18ZBRoLTUkpUXaOeeCplrQ0QxKVkFceH8/view?usp=sharing)
 
 ---
 
 ## 📂 Project Repository
 
-[GitHub Repo - Pothole Detection](https://github.com/yourusername/pothole-detection)
+[GitHub Repo - Pothole Detection](https://github.com/yourusernameniloybiswas190448/Pothhole_Detection)
 
 ---
 
