@@ -1,19 +1,4 @@
 
-
-### ✅ **New Sections Included**:
-
-* 📸 **Sample Output Results** (before/after comparison)
-* 🧠 **Model Architecture Highlights**
-* ⚙️ **Inference Settings**
-* 💡 **Applications & Use Cases**
-* 🧪 **Evaluation Approach**
-* 📦 **Future Work / Roadmap**
-
-
-
-### ✅ **Complete Professional README**
-
-````bash
 cat > README.md << 'EOF'
 # 🕳️ Pothole Detection & Segmentation using YOLOv11
 
