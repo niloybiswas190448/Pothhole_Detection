@@ -61,7 +61,7 @@ This project presents an automated solution for pothole detection and **segmenta
 ### ▶️ Detection & Segmentation Example
 
 <p align="center">
-  <img src="pothole_output.png" width="45%" alt="Detection Output">
+  <img src="pothhole_output.png" width="45%" alt="Detection Output">
   <img src="pothholeoutput2.png" width="45%" alt="Segmentation Mask">
 </p>
 
