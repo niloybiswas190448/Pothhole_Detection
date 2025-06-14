@@ -2,7 +2,7 @@
 # 🕳️ Pothole Detection & Segmentation using YOLOv11
 
 <p align="center">
-  <img src="demo.gif" alt="Pothole Detection Demo" width="70%">
+  <img src="demo.gif" alt="e35862b5-c76e-4191-bfc9-828403950e94_1920x1080.jpg" width="70%">
 </p>
 
 ## 🚀 One-Click Google Colab Demo
@@ -61,8 +61,8 @@ This project presents an automated solution for pothole detection and **segmenta
 ### ▶️ Detection & Segmentation Example
 
 <p align="center">
-  <img src="result_detection.jpg" width="45%" alt="Detection Output">
-  <img src="result_mask.jpg" width="45%" alt="Segmentation Mask">
+  <img src="pothole_output.png" width="45%" alt="Detection Output">
+  <img src="pothholeoutput2.png" width="45%" alt="Segmentation Mask">
 </p>
 
 ---
